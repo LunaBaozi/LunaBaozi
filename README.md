@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luna!
-- 👀 I’m interested in Graph Neural Networks and Computational Biology
-- 🌱 I’m currently learning Explainable AI (XAI)
+- 👀 I’m interested in graph neural networks and computational biology
+- 🌱 I’m currently learning diffusion models and explainable AI
 - 💞️ I’m looking to collaborate on compbio projects!
 - 📫 Feel free to reach out to me at luna.pianesi@gmail.com
 
